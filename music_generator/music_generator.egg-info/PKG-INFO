@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: music-generator
+Version: 0.1.0
+Summary: AI Music Generation Project using RNN and TensorFlow
+Author: Your Name
+Requires-Python: >=3.10
+Requires-Dist: tensorflow>=2.12.0
+Requires-Dist: numpy>=1.22.0
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: scikit-learn>=1.2.0
+Requires-Dist: matplotlib>=3.7.0
+Requires-Dist: music21>=8.0.0
+Requires-Dist: pretty_midi>=0.2.9
+Requires-Dist: librosa>=0.9.0
