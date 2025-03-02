@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+models/models/
+music_generator.egg-info/
+notebooks/
+music-gen-env/
+
